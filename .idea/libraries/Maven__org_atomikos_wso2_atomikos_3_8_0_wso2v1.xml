@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.atomikos.wso2:atomikos:3.8.0.wso2v1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/atomikos/wso2/atomikos/3.8.0.wso2v1/atomikos-3.8.0.wso2v1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/atomikos/wso2/atomikos/3.8.0.wso2v1/atomikos-3.8.0.wso2v1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/atomikos/wso2/atomikos/3.8.0.wso2v1/atomikos-3.8.0.wso2v1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
